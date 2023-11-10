@@ -1,0 +1,2 @@
+The Spring Framework @RequestPart annotation is used in Spring MVC to indicate that a part or parts of a multipart/form-data request should be bound to a method parameter. It's typically used with file uploads.
+
